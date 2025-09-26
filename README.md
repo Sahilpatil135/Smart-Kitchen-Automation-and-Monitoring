@@ -31,7 +31,7 @@ The Smart Kitchen Automation and Monitoring System is an IoT-based solution desi
 - **Fritzing or Tinkercad:** For creating and simulating circuit diagrams.
 
 ## Circuit Diagram
-![Circuit Diagram](images/circuit-diagram.png)
+![Circuit Diagram](images/Circuit Diagram SL.jpg)
 
 ## Workflow
 1. **Sensor Data Collection:** NodeMCU reads data from sensors (DHT11, MQ135, PIR).
@@ -40,20 +40,15 @@ The Smart Kitchen Automation and Monitoring System is an IoT-based solution desi
 4. **Cloud Integration:** Sensor data is sent to Blynk or ThingSpeak for remote monitoring.
 5. **User Alerts:** Real-time notifications are sent to the user’s smartphone.
 
-![Workflow Diagram](images/workflow.png)
-
 ## Implementation Photos
 ### Initial Setup
-![Initial Setup](images/setup1.jpg)
-
-### Normal Operation
-![Normal Operation](images/setup2.jpg)
+![Initial Setup](images/initial_setup.jpeg)
 
 ### Gas Leak Detected
-![Gas Leak Detected](images/setup3.jpg)
+![Gas Leak Detected](images/gas_leak.jpeg)
 
 ### Blynk Integration
-![Blynk Integration](images/setup4.jpg)
+![Blynk Integration](images/blynk.jpeg)
 
 ### ThingSpeak Dashboard
-![ThingSpeak Dashboard](images/setup5.jpg)
+![ThingSpeak Dashboard](images/ThingSpeak.png)

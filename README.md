@@ -31,7 +31,7 @@ The Smart Kitchen Automation and Monitoring System is an IoT-based solution desi
 - **Fritzing or Tinkercad:** For creating and simulating circuit diagrams.
 
 ## Circuit Diagram
-![Circuit Diagram](images/Circuit Diagram SL.jpg)
+![Circuit Diagram](images/circuit_diagram.jpg)
 
 ## Workflow
 1. **Sensor Data Collection:** NodeMCU reads data from sensors (DHT11, MQ135, PIR).
